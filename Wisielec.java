@@ -10,6 +10,12 @@ import java.util.Scanner;
  * na koniec pytanie ccy chce sprobowac ponownie
  *
  */
+/**
+ * @author Tomasz Filo Zegarlicki
+ * [https://github.com/FiloPL]
+ */
+
+
 // TODO blad po skończeniu gdy nie chcesz kontynuować
 public class Wisielec {
     public static void main(String[] args) {

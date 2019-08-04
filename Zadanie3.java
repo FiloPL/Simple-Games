@@ -3,7 +3,10 @@ package ZadaniaWlasne.Zadania;
 import java.sql.SQLOutput;
 import java.util.Random;
 import java.util.Scanner;
-
+/**
+ * @author Tomasz Filo Zegarlicki
+ * [https://github.com/FiloPL]
+ */
 public class Zadanie3 {
 
     public static void main(String[] args) {
